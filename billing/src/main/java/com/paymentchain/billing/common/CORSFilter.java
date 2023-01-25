@@ -21,7 +21,7 @@ import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 /**
- * hagamole de nuevo, de pronto falta suber el ngrok
+ *
  * @author sotobotero
  */
 /*@Component
